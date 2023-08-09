@@ -1,2 +1,2 @@
-# Unity-JuniorProgrammer
-Atividades desenvolvidas durante o curso Junior Programmer oferecido pela Unity
+# Curso-Unity
+Atividades desenvolvidas durante o Curso de Unity oferecido pela Unity
