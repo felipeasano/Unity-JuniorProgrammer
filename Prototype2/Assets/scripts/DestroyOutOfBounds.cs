@@ -15,8 +15,10 @@ public class DestroyOutOfBounds : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // destroi objetos que ultrapassem o limite do jogo
         if(transform.position.z > topBound || transform.position.z < lowerBound)
         {
+            Debug.Log("Game Over!");
             Destroy(gameObject);
         }
     }
